@@ -23,7 +23,7 @@ Aplicación web tipo catálogo para mostrar y gestionar productos artesanales en
 
 ---
 
-## 🎮 MathQuest - Juego de Matemáticas  
+## 🎮 MathQuest - Juego de Matemáticas  ( WEB )
 Plataforma educativa gamificada para aprender matemáticas de forma interactiva.  
 
 ### 🚀 Características
@@ -63,23 +63,22 @@ Aplicación web que convierte documentos PDF en videos explicativos con narraci�
 🔗 [Probar aplicación](https://stud-ai-mocha.vercel.app/)
 
 ---
-
-## 🎮 MathQuest - Juego de Matemáticas  
-Plataforma educativa gamificada para aprender matemáticas de forma interactiva. *(Nota: Es una aplicación móvil nativa, pero se mostrará su versión adaptada para web)*.
+## 🎮 MathQuest - App Móvil de Matemáticas  
+Plataforma educativa gamificada para aprender matemáticas de forma interactiva. *(Nota: Es una aplicación móvil nativa, pero para demostración se utilizará la versión adaptada para web)*.
 
 ### 🚀 Características
-- Modo Aventura con progreso por niveles y modo Infinito de práctica  
+- Modo Infinito de práctica para resolver ejercicios y superar récords personales  
 - Duelos multijugador online en tiempo real con sistema de emparejamiento  
-- Pizarra interactiva integrada para resolver ejercicios dibujando a mano alzada  
 - Sistema de tienda virtual, personalización de perfil, racha diaria y logros  
 - Autenticación completa y guardado de progreso en la nube  
 
 ### 🛠️ Tecnologías
-- **Core / Mobile:** React Native, Expo, TypeScript, Expo Router  
-- **Animaciones / UX:** React Native Reanimated, Lottie, Expo Haptics (vibración)  
+- **Frontend / Mobile:** React Native, Expo, TypeScript, Expo Router  
+- **Estilos / UX:** React Native Reanimated, Lottie, Expo Haptics (vibración)  
 - **Backend / DB:** Supabase (PostgreSQL + Auth + Storage)  
 - **Tiempo Real:** Socket.io para salas multijugador y matchmaking  
 - **Despliegue:** Compilado con Expo Web y alojado en Vercel  
 
-🔗 [Jugar ahora](https://math-quest-expo.vercel.app/login)
+🔗 [Jugar ahora (Demo en Web)](https://math-quest-expo.vercel.app/login)
+
 
